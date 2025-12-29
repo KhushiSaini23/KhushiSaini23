@@ -6,9 +6,7 @@
 
 <h3 align="center">A passionate Web Designer from India.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YASH_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
