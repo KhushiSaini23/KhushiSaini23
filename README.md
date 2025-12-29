@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashsaini7060/yashsaini7060/main/frontend-developer.png" />
+  <img src=""C:\Users\suraj\OneDrive\Desktop\frontend-developer.png"" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushi</h1>
